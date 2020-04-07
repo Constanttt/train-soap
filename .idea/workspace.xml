@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ec27907-c6ea-4df1-8525-1931568bdf69" name="Default Changelist" comment="" />
+    <list default="true" id="7ec27907-c6ea-4df1-8525-1931568bdf69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Deeee/Deeee.war" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Deeee/Deeee.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetSOAP/letrain/LeCalcul.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetSOAP/letrain/LeCalcul.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/letrain/LeCalcul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letrain/LeCalcul.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -34,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -141,6 +151,7 @@
       <workItem from="1581340513070" duration="6679000" />
       <workItem from="1581924653125" duration="72000" />
       <workItem from="1581924914303" duration="269000" />
+      <workItem from="1586259679716" duration="90000" />
     </task>
     <servers />
   </component>
